@@ -1,0 +1,3 @@
+Favorite language is python. This is because it is loosely typed and uses indentation for code blocks, making the code inherently readable. 
+
+Python is also the language I am most proficient in.
